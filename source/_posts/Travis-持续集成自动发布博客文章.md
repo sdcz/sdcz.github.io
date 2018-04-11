@@ -1,6 +1,6 @@
 ---
 title: Travis 持续集成自动发布博客文章
-date: 2018年4月11日16:15:54
+date: 2018年4月12日16:15:54
 categories:
 - 运维
 tags:
